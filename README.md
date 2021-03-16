@@ -1,5 +1,13 @@
 # bora
 
-폴더명: 년_월_일  ex) 2021_03_21
-
-cpp 파일명: 문제출처_문제번호  ex) BJ_1034.cpp
+### 파일명
+```
+└ yyyy_mm_dd : 스터디 날짜
+  └ xx_xxxx : 문제 사이트_문제 번호
+    └ sorce code
+```
+  
+### 문제 사이트
+- BJ : 백준
+- SWEA : Software Expert Academy
+- PG : 프로그래머스
